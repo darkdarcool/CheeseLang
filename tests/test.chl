@@ -1,0 +1,6 @@
+mal 2 $out
+set $out 0 'h'
+set $out 1 ' '
+set $out 2 'i'
+disp $out
+term

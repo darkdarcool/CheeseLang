@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES3",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "sourceMap": false,
+    "declaration": false,
+    "removeComments": true,  
+    "outDir": "./dist/",  
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
